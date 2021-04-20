@@ -1,0 +1,9 @@
+{
+  "extends": "stylelint-config-standard"
+}
+
+module.exports = {
+  plugins: [],
+  extends: 'stylelint-config-standard',
+  rules: {}
+}
