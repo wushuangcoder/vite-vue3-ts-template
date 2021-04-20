@@ -1,5 +1,6 @@
 <template>
   <div id="app-container">
+    <h1>测试</h1>
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
   </div>
